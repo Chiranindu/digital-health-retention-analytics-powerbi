@@ -16,8 +16,7 @@ The goal of this analysis was to understand why users churn, identify high-risk 
 - Segment users based on revenue contribution and churn exposure
 
 ## Dashboard Structure
-
-# Page 1 – Executive Overview
+## Page 1 – Executive Overview
 Provides high-level KPIs and revenue insights:
 - Total Users
 - Active Users
@@ -29,7 +28,7 @@ Provides high-level KPIs and revenue insights:
 - Average Sessions
 - Average Support Requests
 
-# Page 2 – Retention & Churn Intelligence
+## Page 2 – Retention & Churn Intelligence
 Focused on identifying churn drivers and risk patterns:
 - Churn Rate by Tenure Group
 - Engagement Comparison (Churned vs Active Users)
